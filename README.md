@@ -14,3 +14,49 @@ This is my IETS small writting
 | The domestic use account for 9% in total in Africa. | Domestic water usage accounts for a total of 9% in Africa. | Improved clarity and grammar. |
 | In addition, Central Asia and South East Asia are the bottom of the use rank, which is 9%. | Furthermore, Central Asia and South East Asia occupy the lowest positions in terms of water usage, both at 9%. | Enhanced clarity and formal language. |
 | To sum up, the industrial water use is more that agricultural use in North America, and Europe, but the condition is opposite in remaining countries. | In summary, industrial water usage surpasses agricultural use in North America and Europe, while the situation is reversed in other countries. | Improved clarity and parallel structure. |
+
+
+| Original Text | Modified Text | Reason |
+|---------------|---------------|--------|
+| provide a overview | provides an overview | Verb tense agreement for clarity |
+| the amount of man who do | the percentage of men who participated | Accuracy in terminology and tense |
+| this figure of male | the proportion of physically active women | Clarity and proper term usage |
+| 52.8% of men will build up their bodies | 52.8% of those in their late teens to early twenties were physically active | Clarification and consistency in past tense |
+| going down into the bottom | reached its lowest | Improved readability and style |
+| The male who keep regular workouts increases | There was a gradual increase | Corrected subject-verb agreement and tense consistency |
+| At same time | For females | Clearer transition and comparison |
+| keep a exercise routine increase | engaged in regular exercise increased | Subject-verb agreement and appropriate verb choice |
+| amount will go down into | percentage dropped to | Corrected verb tense and clarity |
+
+
+Your summary of the museum data is a good start, but there's room for improvement in structure, clarity, and grammatical precision. Below is a revised version of your summary with a table explaining the changes made:
+
+---
+
+**Revised Summary**:
+
+The table and chart present data regarding visitor numbers and satisfaction levels at Ashdown Museum before and after its refurbishment. These figures indicate that the refurbishment had a positive impact on both visitor attendance and their satisfaction.
+
+Prior to refurbishment, the museum attracted 74,000 visitors. Survey data from this period shows that dissatisfaction was prevalent, with 40% of visitors expressing discontent, the highest among recorded responses. Only 30% of visitors reported feeling satisfied, while the percentages for those who were very satisfied, very dissatisfied, and neutral were 15%, 10%, and 5%, respectively.
+
+Post-refurbishment, there was a notable increase in visitor numbers to 92,000. Correspondingly, the percentage of visitors reporting satisfaction (satisfied and very satisfied) rose to 40% and 35%, respectively. Simultaneously, the rates of dissatisfaction (dissatisfied and very dissatisfied) declined to 15% and 5%. Notably, the proportion of neutral visitors remained unchanged.
+
+In summary, the refurbishment of the museum appears to have successfully shifted the balance, with a higher percentage of visitors reporting satisfaction than dissatisfaction afterwards.
+
+---
+
+
+| Original Text | Modified Text | Reason |
+|---------------|---------------|--------|
+| provide some information | present data | More precise language |
+| promoted the number and satisfaction of visitos | had a positive impact on both visitor attendance and their satisfaction | Enhanced clarity and formality |
+| reach into 74000 | attracted 74,000 visitors | Corrected grammar and improved readability |
+| the percentage of those who is dissatisfied | the percentage of visitors expressing discontent | Improved grammar and specificity |
+| ranking at the first | the highest among recorded responses | Enhanced clarity |
+| increase into 92000 | increased to 92,000 | Corrected grammatical structure |
+| went up into 40% and 35% separately | rose to 40% and 35%, respectively | Improved grammatical accuracy and word choice |
+| decreased into 15% and 5% | declined to 15% and 5% | More appropriate verb choice |
+| who is neutral on its refurbishment | of neutral visitors | Simplified phrasing and corrected grammar |
+| The percentage of people expressing satisfaction surpassed | a higher percentage of visitors reporting satisfaction than dissatisfaction | Clearer and more concise expression |
+
+These revisions help to present your summary more coherently, with improved syntax that adheres to the principles evaluated by IELTS examiners, such as task achievement, coherence and cohesion, lexical resource, and grammatical range and accuracy.
