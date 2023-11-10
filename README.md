@@ -224,3 +224,37 @@ Of course! I'll consider the IELTS band descriptors for the four grading criteri
 | Railroad transportation... can create greater reward.        | Railroad transportation, with its significant cargo capacity and economic advantages, profoundly impacts the population's well-being. Investments in it promise substantial returns. | Extended the sentence for clarity and detail, fulfilling "Task Achievement" and "Coherence and Cohesion". The new phrasing also provides a broader range of vocabulary and grammar structures, addressing "Lexical Resources" and "Grammatical Range and Accuracy". |
 
 ---
+
+
+
+
+**Revised Description**:
+
+The two maps depict the current layout and proposed future development of Islip town center. Overall, significant modifications are planned for the foreseeable future.
+
+The present layout shows Islip town center situated adjacent to the countryside, with the Main Road serving as the sole thoroughfare linking various structures. Shops line both sides of the Main Road, while housing is positioned to its south. To the west and east of the housing, there is a school and a park, respectively.
+
+In the projected future layout, a dual carriageway will replace the Main Road, encircling all structures and incorporating a pedestrian road at the center. To the north of this pedestrian zone, new developments include a bus station, shopping center, car park, and additional housing. The southern side will retain the existing shops and housing, complemented by new housing to the east of the current homes. The countryside will no longer be present. The school and park will maintain their original positions.
+
+In summary, the town center is set to undergo extensive changes, with an expansion in facilities and the elimination of the countryside.
+
+**Modifications Table**:
+
+| Original Writing | Modified Writing | Reason |
+|------------------|------------------|--------|
+| provide the information | depict | Chose a more precise verb for describing what maps do. |
+| during the forecast future | for the foreseeable future | Corrected to a more standard phrase expressing future developments. |
+| is close to the countryside | situated adjacent to the countryside | Improved clarity and specificity. |
+| the Main road serve as the only avenue | the Main Road serving as the sole thoroughfare | Corrected verb tense and improved word choice for formality. |
+| located the both side | line both sides | Improved readability and structure. |
+| School and Park is located | there is a school and a park | Corrected grammatical number agreement and improved sentence structure. |
+| respective | respectively | Corrected word form for proper adverbial use. |
+| Dual carriageway | a dual carriageway | Inserted article 'a' for grammatical accuracy. |
+| pedestrians road | pedestrian road | Corrected form to the singular for consistency with 'road'. |
+| in the north of pedestrians | to the north of this pedestrian zone | Clarified the description and specified 'zone' for better understanding. |
+| new housing will be established the in east | new housing to the east | Improved sentence structure and conciseness. |
+| countryside will disappear | countryside will no longer be present | Chose a less abrupt term for the disappearance of the countryside. |
+| remain in the original location | maintain their original positions | Changed 'remain' to 'maintain' for better lexical choice and to avoid repetition. |
+| To sum of | In summary | Corrected phrase to 'In summary' for a proper concluding statement. |
+| The facilities will increase | an expansion in facilities | Improved expression to indicate growth. |
+
